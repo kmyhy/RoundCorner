@@ -25,7 +25,7 @@
     }
     // 描边色不为 nil，设置描边色
     if(strokeColor){
-        [UIColor.blueColor setStroke];
+        [strokeColor setStroke];
     }
     
     //// Rectangle Drawing
